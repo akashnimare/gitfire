@@ -4,6 +4,7 @@ npm install --global gitfire
 ## Usage
 
 > gitfire commitmessage
+
 ## What It Does
 
 - creates new branch `fire`
