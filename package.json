@@ -1,0 +1,37 @@
+{
+  "name": "gitfire",
+  "version": "0.0.1",
+  "description": "Git Fire mode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "git://github.com/akashnimare/gitfire.git"
+  },
+  "keywords": [
+    "github",
+    "commit",
+    "fire",
+    "github",
+    "repository",
+    "cli"
+  ],
+  "author": {
+    "name": "akashnimare"
+  },
+  "bugs": {
+    "url": "https://github.com/akashnimare/gitfire/issues"
+  },
+  "homepage": "https://github.com/akashnimare/gitfire",
+  "preferGlobal": true,
+  "dependencies": {
+ 	"shelljs":"0.5.3"
+  },
+  "bin": {
+    "gitfire": "index.js"
+  }
+}
+
+
+  
